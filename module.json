@@ -1,0 +1,40 @@
+{
+  "id": "running-memorable-games-new-background-options-2024",
+  "title": "Running Memorable Games - New Background Options (2024)",
+  "version": "1.0.0",
+  "manifest": "https://github.com/Apacolyps/Vault-of-Time/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Apacolyps/Vault-of-Time/releases/download/1.0.0/vault.of.time.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>We are very excited about the 2024 edition of Dungeons and Dragons. With the recent release of the Player's Handbook 2024, we began exploring the new content and creating characters.</p><p>However, we found ourselves somewhat constrained by the background options. Several of the origin feats are only provided by a single character background, which may not fit a character's concept. This restricts the game from representing the full diversity of characters that may be imagined.</p><p>For example, if you want to play a character with the Healer feat, you are currently forced to be a Hermit. We offer you three new options: the Apothecary, who offers remedies and cures in civilized areas, the Medic, who rescues people in dangerous situations, and the Surgeon, which specializes in treating serious injuries.</p><p>Using the same rules as the official character backgrounds, we are proud to present 30 additional character backgrounds. These options provide greater depth and flexibility when translating your character concepts into the mechanics of Dungeons and Dragons. Some backgrounds, such as the Folk Hero, have been adapted from the 2014 edition, but the majority are original.</p><p>Our goal is not to create mechanically superior options, but to represent a wider array of roles and careers typical in a medieval fantasy setting. For those who have felt similarly constrained while creating new characters, we hope this release offers a viable and balanced solution.</p>",
+  "authors": [
+    {
+      "name": "Zrave",
+      "flags": {}
+    },
+    {
+      "name": "Apacolyps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.dmsguild.com/product/494261/Running-Memorable-Games--New-Background-Options-2024",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "rmg-new-backgrounds-2024",
+      "label": "RMG - New Backgrounds (2024)",
+      "path": "packs/rmg-new-backgrounds-2024",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
