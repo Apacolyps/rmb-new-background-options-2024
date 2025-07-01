@@ -2,8 +2,8 @@
   "id": "running-memorable-games-new-background-options-2024",
   "title": "Running Memorable Games - New Background Options (2024)",
   "version": "1.0.0",
-  "manifest": "https://github.com/Apacolyps/Vault-of-Time/releases/download/1.0.0/module.json",
-  "download": "https://github.com/Apacolyps/Vault-of-Time/releases/download/1.0.0/vault.of.time.zip",
+  "manifest": "https://github.com/Apacolyps/rmb-new-background-options-2024/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Apacolyps/rmb-new-background-options-2024/releases/download/1.0.0/rmb.new.backgrounds.2024.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
